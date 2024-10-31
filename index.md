@@ -1,9 +1,5 @@
 {% include navbar.html %}  {% include top-box.html %}
 
-
-## [Slik lager du et kursrepositorie](readme_no.html){:target="blank"} (Slettes)
-
-
 ## Kursplan  
 
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
@@ -24,8 +20,8 @@ Kurset består av ulike interessante tema
 
 
 ## Faglærerinfo  
-- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
+- [Markus J. Aase](https://uit.no/ansatte/person?p_document_id=844489&p_dimension_id=88163){:target="blank"} (fagansvarlig)
+- [Øystein Myrland](https://uit.no/ansatte/oystein.myrland){:target="blank"}
 
 
 
@@ -35,6 +31,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 
 ## Pensum  
+Kompendium [Link kommer]
 
 ### Pensum til forelesningene
 
