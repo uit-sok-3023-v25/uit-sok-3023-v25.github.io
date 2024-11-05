@@ -5,9 +5,8 @@
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
-- [Forelesningsplan](forelesningsplan.html){:target="blank"}
-- [Seminarplan](seminarplan.html){:target="blank"}
-- [Innleveringsplan](innleveringer.html){:target="blank"}   
+- [Oversikt over forelesninger og seminar](forelesningsplan.html){:target="blank"}
+- [Eksamen og informasjon om vurdering](eksamen.html){:target="blank"}   
 
 
 [Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
@@ -20,9 +19,10 @@ Kurset består av ulike interessante tema
 
 
 ## Faglærerinfo  
-- [Markus J. Aase](https://uit.no/ansatte/person?p_document_id=844489&p_dimension_id=88163){:target="blank"} (fagansvarlig)
-- [Øystein Myrland](https://uit.no/ansatte/oystein.myrland){:target="blank"}
+- [Markus J. Aase](https://uit.no/ansatte/person?p_document_id=844489&p_dimension_id=88163)(fagansvarlig)
+- [Øystein Myrland](https://uit.no/ansatte/oystein.myrland)
 
+I forbindelse med spørsmål til faget, eksamen og prosjektet skal spørsmål henvendes til Markus Aase.
 
 
 ## Administrative spørsmål
@@ -30,15 +30,13 @@ Kurset består av ulike interessante tema
 For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
 
 
-## Pensum  
-Kompendium [Link kommer]
+## Pensum
+I SOK-3023 *Maskinlæring for økonomer* har vi ingen bok, men vi har følgende pensum:
+* Kompendium designet for dette kurset.
+* Google Colab filer, de finner dere [her]().
 
-### Pensum til forelesningene
-
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
-
-
-
+### Om kompendiet
+Kompendiet er litteratur studentene kan støtte seg på til forelesningene og prosjektet. Alt i kompendiet er pensum, og vil kreve en del egenstudium.
 
 ## Kunngjøringer  
 
@@ -47,7 +45,8 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 ## Innlevering og eksamen  
 
-Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
+Kurset består av ett arbeidskrav, en presentasjon av prosjektbeskrivelse, som vurderes godkjent/ikke-godkjent. 
 
-Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
+Det som blir karaktergivende er et prosjekt (i gruppestørrelse 1-2) og en muntlig eksamen, hvor begge vektes 50%. Dette danner grunnlag for karakter A-E, F er stryk.
 
+Frister og oppgaver finnes [her](eksamen.html){:target="blank"}.    
