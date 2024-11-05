@@ -9,14 +9,15 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 - [Eksamen og informasjon om vurdering](eksamen.html){:target="blank"}   
 
 
-[Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
+[Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=25v&module=SOK-3023-1){:target="blank"} på timeplan.uit.no
 
 
 ## Kursbeskrivelse 
 
+Økonometri har lenge dominert innen økonomi og finans når det gjelder modellering og prediksjon. Likevel har framskritt av maskinlæring gjort at maskinlæringen brukes mer og mer innen økonomi og finans. Dette emnet vil omhandle teknikker som beslutningstrær, nevrale nettverk, bildeklassifisering, bruk av tekstdata, språkmodeller og tidsserie-modeller.
+Undervisningen vil bruke maskinlæringsverktøy i Python, og gi studentene en god innføring i maskinlæring rettet mot samfunnsøkonomiske og finansielle problemstillinger.
 
-Kurset består av ulike interessante tema  
-
+For mer informasjon se UiT sin [læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne/859436/sok-3023) av kurset.
 
 ## Faglærerinfo  
 - [Markus J. Aase](https://uit.no/ansatte/person?p_document_id=844489&p_dimension_id=88163)(fagansvarlig)
