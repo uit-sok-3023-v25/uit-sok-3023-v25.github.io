@@ -30,7 +30,8 @@ Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://
 |08.05.2025  14:00    |Tromsø  |INNLEVERING AV PROSJEKT |Wiseflow-link for innlevering |
 |Insert dato|Tromsø|MUNTLIG EKSAMEN|--------------------|
 
-I perioden med prosjektarbeid og egentstudium vil det være mulighet for kontortid med foreleser. Det planlegges med fagansvarlig Markus J. Aase (markus.j.aase@uit.no) og den enkelte gruppe.
+## Prosjektarbeid og egenstudium
+I perioden med prosjektarbeid og egentstudium vil det være mulighet for kontortid med foreleser. Det planlegges med fagansvarlig Markus J. Aase (markus.j.aase@uit.no) og den enkelte gruppe det gjelder.
 
 
 
