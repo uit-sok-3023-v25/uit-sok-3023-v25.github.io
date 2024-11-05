@@ -2,7 +2,8 @@
 # Sok-3023 Maskinlæring for økonomer   
 
 ## Arbeidskrav
-- I dette kurset har vi et arbeidskrav, det er presentasjon av prosjektbeskrivelse. Her kan dere være én til to personer, som skal jobbe sammen med et prosjekt - og arbeidskravet (Godkjent/ikke-godkjent) må gjennomføres for å få ta eksamen i faget.
+- I dette kurset har vi et arbeidskrav, det er presentasjon av prosjektbeskrivelse. Her kan dere være én til to personer, som skal jobbe sammen med et prosjekt.
+- Prosjektbeskrivelsen vurderes godkjent/ikke-godkjent, og må gjennomføres for å få ta eksamen i faget.
 - Arbeidskrav er obligatorisk, men inngår ikke i karaktergrunnlaget.
 
 ## Karakter
