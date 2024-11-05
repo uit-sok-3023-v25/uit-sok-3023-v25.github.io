@@ -9,7 +9,7 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 - [Eksamen og informasjon om vurdering](eksamen.html){:target="blank"}   
 
 
-[Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=25v&module=SOK-3023-1){:target="blank"} på timeplan.uit.no
+[Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=25v&module=SOK-3023-1){:target="blank"} for faget på UiT sine sider.
 
 
 ## Kursbeskrivelse 
