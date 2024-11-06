@@ -22,7 +22,7 @@ Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://
 |17.02.2025  12:15-14:00    |Tromsø  |Long Short Term Memory modeller |Forelesning |
 |20.02.2025  12:15-14:00    |Tromsø  |Spørsmål, oppgaver, prosjektforberedelser |Seminar |
 |04.03.2025  08:15-14:00    |Tromsø  |Presentasjon av prosjektforberedelser |----- |
-|11.03.2025  12:15-14:00    |Tromsø  |Spørsmål med prosjekt |----- |
+|11.03.2025  12:15-14:00    |Tromsø  |Spørsmål med prosjekt |Seminar|
 |PROSJEKTARBEID|PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM|
 |PROSJEKTARBEID|PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM|
 |PROSJEKTARBEID|PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM|
