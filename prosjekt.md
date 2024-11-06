@@ -19,6 +19,7 @@ Det er veldig åpne rammer for oppgaven, men oppgaven må inneholde følgende:
 * Kode, som er kommentert og at dere forklarer hva den gjør.
 * Gjerne bruk flere læringsteknikker, for å se hvilke som gjør det best.
 * Dere **må** ha med noe *dyplæring*.
+* Det forventes at dere skriver LaTex i Markdown delen av Google Colab, for å forklare hvilke modeller dere bruker. Dette skal ha et matematisk/statistisk fundament, for at dere skal vise deres forståelse av modellen dere bruker.
 * Oppgaven skal leveres i format av en ipynb (Jupyter Notebook), som skal kunne kjøres i Google Colab.
 
 ### Vurdering av oppgaven
