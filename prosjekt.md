@@ -1,3 +1,4 @@
+{% include navbar.html %}{% include top-box.html %}
 # Prosjekt
 I dette kurset skal vi ha et maskinlæringsprosjekt, hvor dere får utfordret dere med å lage faktisk maskinlæringsmodeller. Dere skal gjennomføre arbeidet **enten** alene, eller i gruppe på to.
 
@@ -7,7 +8,8 @@ I kurset har vi gått igjennom maskinlæringsteknikker som,
 * Whisper modellen
 * Convolutional neural networks
 * LSTM modeller
-I tillegg har vi sett på noen enklere læringsteknikker i starten av kurset, som lineær regresjon, logistisk regresjon, og ulike varianter av beslutningstrær (se kompendium).
+  
+Alle teknikkene over, kan gå under feltet *dyplæring*, og skal inkluderes i prosjektet. I tillegg har vi sett på noen enklere læringsteknikker i starten av kurset, som lineær regresjon, logistisk regresjon, og ulike varianter av beslutningstrær (se kompendium), som gjerne kan brukes for sammenligning av ulike teknikker sin ytelse.
 
 ### Krav til oppgaven
 Jeg har funnet frem en del eksempel-datasett dere *kan* (les kan, **ikke må**) bruke. Dere står fritt til å velge datasett selv, som dere finner på Internett. Det kan f.eks. være fra Yahoo finance, Kaggle, SSB eller andre sider som har data.
