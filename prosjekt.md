@@ -30,4 +30,4 @@ Det er veldig åpne rammer for oppgaven, men oppgaven må inneholde følgende:
 * Det er lov å bruke AI som et hjelpemiddel, for å få hjelp med koding, forståelse etc. - men ting skal være formidlet med egne ord.
 
 ### Datasett
-Vi har en rekke datasett som er lastet opp eller linket til på GitHub, det finner dere [her](https://github.com/uit-sok-3023-v25/uit-sok-3023-v25.github.io/blob/main/data/README.html).
+Vi har en rekke datasett som er lastet opp eller linket til på GitHub, det finner dere [her](https://github.com/uit-sok-3023-v25/uit-sok-3023-v25.github.io/blob/main/data/README.md).
