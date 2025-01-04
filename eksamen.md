@@ -14,10 +14,10 @@
 - Skriftlig rapport leveres i [Wiseflow](https://europe.wiseflow.net/participant/). *Her kan det skje endringer, vil uansett bli Canvas eller WiseFlow.* 
 
 
-| Type oppgave   | Innleveringsfrist | Ressurser |Vurdering |
+| Type oppgave   | Innleveringsfrist | Hvordan |Vurdering |
 |------------------------------------|-------------------|-----------|-----------|
-|Presentasjon av prosjektbeskrivelse  |  xx.xx            | kommer    |Godkjent/Ikke-godkjent|
-|Innlevering av prosjekt| xx.xx           | kommer    |50% av karaktergrunnlag|
-|Muntlig eksamen| xx.xx kl xx:xx    | kommer    |50% av karaktergrunnlag|
+|Presentasjon av prosjektbeskrivelse  |  xx.xx            | Presentasjon   |Godkjent/Ikke-godkjent|
+|Innlevering av prosjekt| xx.xx           | WiseFlow eller Canvas    |50% av karaktergrunnlag|
+|Muntlig eksamen| xx.xx kl xx:xx    | Fysisk på campus    |50% av karaktergrunnlag|
 
 Prosjekt kan gjøres i alene eller grupper på to. Muntlig eksamen er individuell.
