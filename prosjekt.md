@@ -19,7 +19,7 @@ Det er veldig åpne rammer for oppgaven, men oppgaven **må** inneholde følgend
 * Kode, som er kommentert og at dere forklarer hva den gjør. 
 * Gjerne bruk flere læringsteknikker, for å se hvilke som gjør det best - ved å se på ulike evalueringsmetrikker.
 * Dere **må** ha med noe *dyplæring*.
-* Det forventes at dere skriver LaTeX i Markdown delen av Google Colab, for å forklare hvilke modeller dere bruker. Dette skal ha et matematisk/statistisk fundament, for at dere skal vise deres forståelse av modellen dere bruker.
+* Det forventes at dere skriver LaTeX i Markdown delen av Google Colab, for å forklare hvilke modeller dere bruker. Dette skal ha et matematisk/statistisk fundament, slik kurset har, for at dere skal vise forståelse av modellen(e) dere bruker.
 * Det er bare positivt om dere trekker inn andre læringsteknikker, metrikker etc. fra litteraturen.
 * Oppgaven skal leveres i format av en ipynb (Jupyter Notebook), som skal kunne kjøres i Google Colab.
 * Kildeliste skal oppgis.
