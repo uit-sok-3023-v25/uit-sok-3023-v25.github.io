@@ -5,7 +5,7 @@ Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://
 
 
 ## Oversikt over forelesninger og seminar.
-
+Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer. Dette vil informeres om, og timeplan oppdatert her og på UiT sin timeplan.
 | Tid            | Sted            | Tema               |Type               |
 |----------------|-----------------|--------------------|--------------------|
 |10.01.2025  10:15-12:00    |Tromsø  |Introduksjon til ML #1 - del 1 |Forelesning|
@@ -17,7 +17,7 @@ Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://
 |27.01.2025  09:15-12:00    |Tromsø  |Introduksjon til ML #3 - del 1 |Forelesning|
 |29.01.2025  12:15-14:00    |Tromsø  |Introduksjon til ML #3 - del 2 |Forelesning|
 |03.02.2025  10:15-12:00    |Tromsø  |Whisper-modellen |Forelesning|
-|04.02.2025  12:15-14:00    |Tromsø  |Whisper-modellen |Seminar|
+|04.02.2025  12:15-14:00    |Tromsø  |Whisper-modellen |Seminar (Utgår per 06.01.25)|
 |05.02.2025  10:15-12:00    |Tromsø  |Bildeklassifisering, CNN's - del 1 |Forelesning|
 |10.02.2025  12:15-14:00    |Tromsø  |Bildeklassifisering, CNN's - del 2|Forelesning |
 |12.02.2025  10:15-12:00    |Tromsø  |Long Short Term Memory modeller|Forelesning |
