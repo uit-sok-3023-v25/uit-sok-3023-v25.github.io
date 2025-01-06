@@ -6,6 +6,7 @@ Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://
 
 ## Oversikt over forelesninger og seminar.
 Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer.
+
 | Tid            | Sted            | Tema               |Type               |
 |----------------|-----------------|--------------------|--------------------|
 |10.01.2025  10:15-12:00    |Tromsø  |Introduksjon til ML #1 - del 1 |Forelesning|
