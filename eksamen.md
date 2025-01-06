@@ -17,7 +17,7 @@
 | Type oppgave   | Innleveringsfrist | Hvordan |Vurdering |
 |------------------------------------|-------------------|-----------|-----------|
 |Presentasjon av prosjektbeskrivelse  |  xx.xx            | Presentasjon   |Godkjent/Ikke-godkjent|
-|Innlevering av prosjekt| 08.05 kl. 14.00          | WiseFlow eller Canvas    |50% av karaktergrunnlag|
+|Innlevering av prosjekt| 07.05 kl. 14.00          | WiseFlow eller Canvas    |50% av karaktergrunnlag|
 |Muntlig eksamen| 22.05 og 23.05     | Fysisk på campus    |50% av karaktergrunnlag|
 
 Prosjekt kan gjøres i alene eller grupper på to. Muntlig eksamen er individuell.
