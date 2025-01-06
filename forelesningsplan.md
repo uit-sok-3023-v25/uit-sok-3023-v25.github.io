@@ -30,7 +30,7 @@ Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer.
 |PROSJEKTARBEID|PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM|
 |PROSJEKTARBEID|PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM|
 |PROSJEKTARBEID|PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM|
-|08.05.2025  14:00    |Tromsø  |INNLEVERING AV PROSJEKT |Wiseflow-link for innlevering |
+|07.05.2025  14:00    |Tromsø  |INNLEVERING AV PROSJEKT |Wiseflow-link for innlevering |
 |14.05.2025  14:00    |Tromsø  |Spørretime |Forberedelse til muntlig eksamen |
 |22.05.2025|Tromsø|MUNTLIG EKSAMEN - dag 1|--------------------|
 |23.05.2025|Tromsø|MUNTLIG EKSAMEN - dag 2|--------------------|
