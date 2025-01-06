@@ -5,7 +5,7 @@ Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://
 
 
 ## Oversikt over forelesninger og seminar.
-Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer. Dette vil informeres om, og timeplan oppdatert her og på UiT sin timeplan.
+Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer.
 | Tid            | Sted            | Tema               |Type               |
 |----------------|-----------------|--------------------|--------------------|
 |10.01.2025  10:15-12:00    |Tromsø  |Introduksjon til ML #1 - del 1 |Forelesning|
@@ -35,7 +35,7 @@ Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer. Dette vil inf
 |23.05.2025|Tromsø|MUNTLIG EKSAMEN - dag 2|--------------------|
 
 ## Prosjektarbeid og egenstudium
-I perioden med prosjektarbeid og egentstudium vil det være mulighet for kontortid med foreleser. Det planlegges med fagansvarlig Markus J. Aase (markus.j.aase@uit.no) og den enkelte gruppe det gjelder.
+I perioden med prosjektarbeid og egenstudium vil det være mulighet for kontortid med foreleser. Det planlegges direkte sammen med fagansvarlig Markus J. Aase (markus.j.aase@uit.no) og den enkelte gruppe det gjelder. Det vil også settes opp tidslommer hvor jeg vil være tilgjengelig i et forelesningsrom - dette oppdateres fortløpende i semesteret (og vil informeres om her og Canvas:) ).
 
 
 
