@@ -19,9 +19,9 @@ For mer informasjon om kurset, se UiT sin [læringsutbyttebeskrivelse](https://u
 
 ## Faglærerinfo  
 - [Markus J. Aase](https://uit.no/ansatte/person?p_document_id=844489&p_dimension_id=88163)(fagansvarlig)
-- [Øystein Myrland](https://uit.no/ansatte/oystein.myrland)
+- [Øystein Myrland](https://uit.no/ansatte/oystein.myrland) (kan bistå på enkelte spørsmål)
 
-I forbindelse med spørsmål til faget, eksamen og prosjektet skal spørsmål henvendes til Markus Aase.
+I forbindelse med spørsmål til faget, eksamen og prosjektet skal spørsmål henvendes til Markus Aase. 
 
 ## Administrative spørsmål
 For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
