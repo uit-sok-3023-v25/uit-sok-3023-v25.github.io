@@ -5,4 +5,4 @@ Som et supplement til oppgavene i kompendiet og fra kode-øktene.
 
 | Filnavn    | Uke    | Løsningsforslag   |
 |--------------|--------------|--------------|
-| Oppgaver#1     | 3     | Kommer    |
+| Oppgaver#1.pdf     | 3     | Kommer    |
