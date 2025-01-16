@@ -9,7 +9,9 @@ I kurset har vi gått igjennom maskinlæringsteknikker som,
 * Convolutional neural networks
 * LSTM modeller
   
-Alle teknikkene over, kan gå under feltet *dyplæring*. Dyplæring *skal* inkluderes i prosjektet. I tillegg, har vi sett på noen enklere læringsteknikker i starten av kurset, som lineær regresjon, logistisk regresjon, og ulike varianter av beslutningstrær (decision trees, random forests og boosting - se kompendium), som gjerne kan brukes for sammenligning av ulike teknikker sin ytelse.
+Alle teknikkene over, går under feltet *dyplæring*. Dyplæring **skal** inkluderes i prosjektet. 
+
+I tillegg, har vi sett på noen enklere læringsteknikker i starten av kurset, som lineær regresjon, logistisk regresjon, og ulike varianter av beslutningstrær (decision trees, random forests og boosting - se kompendium), som gjerne kan brukes for sammenligning av ulike teknikker sin ytelse. Dette handler om å kjøre modeller av ulik kompleksitet, da ikke nødvendigvis komplekse modeller er det optimale for en gitt type data. Det er dette *dere* skal få utforske i løpet av arbeid med prosjektet!
 
 ### Krav til oppgaven
 Jeg har funnet frem en del eksempel-datasett dere *kan* (les kan, **ikke må**) bruke. Dere står fritt til å velge datasett selv, som dere finner på Internett. Det kan f.eks. være fra Yahoo finance, Kaggle, SSB eller andre sider som har data. Uansett hvilke data dere bruker, så **må** dere oppgi dets kilde!
