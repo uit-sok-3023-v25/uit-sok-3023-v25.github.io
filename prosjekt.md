@@ -49,7 +49,7 @@ Det er ganske åpne rammer for oppgaven, men oppgaven har følgende krav:
 5. **Matematisk beskrivelse av modellene**  
    - Bruk LaTeX i Markdown for å forklare de matematiske konseptene.  
    - For eksempel kan input-lag til første skjulte lag i et nevralt nettverk beskrives noe som dette:  
-     $\mathbf{a^{(1)}} = \sigma(\mathbf{W}mathbf{a^{(0)}} + \mathbf{b})$
+     $\mathbf{a^{(1)}} = \sigma(\mathbf{W} \mathbf{a^{(0)}} + \mathbf{b})$
 
 6. **Konklusjon og refleksjon**  
    - Hvilken modell presterte best? Hvorfor?  
