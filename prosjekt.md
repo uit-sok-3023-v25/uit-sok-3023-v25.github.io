@@ -38,7 +38,8 @@ Det er ganske åpne rammer for oppgaven, men oppgaven har følgende krav:
    - Gjør nødvendige transformasjoner (håndtere manglende verdier, normalisering, etc.).  
 
 3. **Implementasjon av modeller**  
-   - Bruk minst én dyplæringsteknikk og sammenlign gjerne med andre modeller.  
+   - Bruk minst én dyplæringsteknikk og sammenlign gjerne med andre modeller (som nevnt over).
+       * Det er bare positivt om dere gjør egne valg, og gjør en grundig analyse.  
    - Koden skal være godt kommentert og forklart!!!  
 
 4. **Evaluering av modellene**  
@@ -54,22 +55,19 @@ Det er ganske åpne rammer for oppgaven, men oppgaven har følgende krav:
 6. **Konklusjon og refleksjon**  
    - Hvilken modell presterte best? Hvorfor?  
    - Hvordan kan modellen forbedres?  
-   - Hva kan resultatene brukes til i praksis?  
+   - Hva kan resultatene brukes til i praksis?
+   - Også videre, også videre. 
 
 7. **Format og innlevering**  
-   - Prosjektet skal leveres som en **Jupyter Notebook (`.ipynb`)**.  
+   - Prosjektet **skal** leveres som en **Jupyter Notebook (`.ipynb`)**.  
    - Det skal kunne kjøres i **Google Colab** uten eksterne avhengigheter.  
-   - Husk å oppgi en **kildeliste** for datasett og litteratur.  
+   - Husk å oppgi en **kildeliste** for datasett og litteratur, bruk APA 7 referansestil. 
 
-* God beskrivelse av datasettet deres, og hvor det kommer fra (kilde).
-* Kode, som er kommentert og at dere forklarer hva den gjør.
-* Dere skal ha en problemstilling knyttet til et datasett. 
-* Gjerne bruk flere læringsteknikker, for å se hvilke som gjør det best - ved å se på ulike evalueringsmetrikker.
-* Dere **må** ha med noe *dyplæring*, altså nevrale nettverk, CNN, LSTM, ... 
-* Det forventes at dere skriver LaTeX i Markdown delen av Google Colab (eller VSCode etc.), for å forklare hvilke modeller dere bruker. Dette skal ha et matematisk/statistisk fundament, slik kurset har, for at dere skal vise forståelse av modellen(e) dere bruker. I tillegg, at dere viser forståelse av hva output'et av modellen betyr, og hva det har å si for problemstillingen deres.
-* Det er bare positivt om dere trekker inn andre læringsteknikker, metrikker etc. fra litteraturen.
-* Oppgaven skal leveres i format av en ipynb (Jupyter Notebook), som skal kunne kjøres i Google Colab.
-* Kildeliste skal oppgis.
+### 🎙️ Presentasjon av prosjektbeskrivelse
+Dere skal presentere prosjektet før det starter ordentlig. Dette er for å demonstrere hva dere har tenkt til, fremdriftsplan og hvilke data dere velger å se på. Dette skjer fredag 28. februar 2025, mellom 08.15-14.00 (Skulle noen ønske *tidligere*, så ta det opp med fagansvarlig i forelesning/mail).
+
+- Presentasjonen skal være i 5-10 minutter, etterfulgt av 5 minutter med spørsmål/diskusjon.
+- Dere skal vise frem valgte data, problemstilling og initielle tanker for prosjektet.
 
 ### 📚 Vurdering av oppgaven
 Denne semesteroppgaven teller 50% av karakteren. Dere vil få karakter A-F, og det vurderes ut i fra følgende:
