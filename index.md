@@ -18,7 +18,7 @@ Undervisningen vil bruke maskinlæringsverktøy i Python, og gi studentene en go
 For mer informasjon om kurset, se UiT sin [læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne/859436/sok-3023) av kurset.
 
 ## Faglærerinfo  
-- [Markus J. Aase](https://uit.no/ansatte/person?p_document_id=844489&p_dimension_id=88163)(fagansvarlig)
+- [Markus J. Aase](https://uit.no/ansatte/person?p_document_id=844489&p_dimension_id=88163) (fagansvarlig)
 - [Øystein Myrland](https://uit.no/ansatte/oystein.myrland) (kan bistå på enkelte spørsmål)
 
 I forbindelse med spørsmål til faget, eksamen og prosjektet skal spørsmål henvendes til Markus Aase. 
