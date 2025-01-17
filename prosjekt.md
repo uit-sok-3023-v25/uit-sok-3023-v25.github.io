@@ -68,6 +68,7 @@ Dere skal presentere prosjektet før det starter ordentlig. Dette er for å demo
 
 - Presentasjonen skal være i 5-10 minutter, etterfulgt av 5 minutter med spørsmål/diskusjon.
 - Dere skal vise frem valgte data, problemstilling og initielle tanker for prosjektet.
+- Vurderes som Godkjent/Ikke-godkjent.
 
 ### 📚 Vurdering av oppgaven
 Denne semesteroppgaven teller 50% av karakteren. Dere vil få karakter A-F, og det vurderes ut i fra følgende:
