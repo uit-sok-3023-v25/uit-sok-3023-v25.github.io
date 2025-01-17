@@ -22,7 +22,7 @@ I tillegg kan dere sammenligne disse med enklere modeller:
 
 **Husk:** Mer komplekse modeller er ikke alltid best! Dere skal evaluere modellene basert på deres ytelse og relevans for problemstillingen.  
 
-### Krav til prosjektet
+### 📂 Krav til prosjektet
 Jeg har funnet frem en del eksempel-datasett dere *kan* (les kan, **ikke må**) bruke. De finner dere lenke til nederst på siden her.
 
 Dere står fritt til å velge datasett selv, som dere finner på Internett. Det kan f.eks. være fra Yahoo finance, Kaggle, SSB eller andre sider som har data. Uansett hvilke data dere bruker, så **må** dere oppgi dets kilde!
@@ -71,7 +71,7 @@ Det er ganske åpne rammer for oppgaven, men oppgaven har følgende krav:
 * Oppgaven skal leveres i format av en ipynb (Jupyter Notebook), som skal kunne kjøres i Google Colab.
 * Kildeliste skal oppgis.
 
-### Vurdering av oppgaven
+### 📚 Vurdering av oppgaven
 Denne semesteroppgaven teller 50% av karakteren. Dere vil få karakter A-F, og det vurderes ut i fra følgende:
 
 * Forståelse av maskinlæring, teknikkene dere bruker, hva dere har gjort og hvordan dette **formidles** i oppgaven.
