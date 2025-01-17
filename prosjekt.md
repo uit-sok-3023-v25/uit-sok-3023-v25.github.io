@@ -1,5 +1,5 @@
 {% include navbar.html %}{% include top-box.html %}
-# Prosjekt - Maskinlæring for økonomer
+# Prosjekt
 I dette kurset skal vi ha et maskinlæringsprosjekt, hvor dere vil bli utfordret på å lage egne maskinlæringsmodeller. Dere skal gjennomføre arbeidet **enten** alene, eller i gruppe på to.
 
 ## Oppgave 🎯📊
