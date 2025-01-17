@@ -14,11 +14,11 @@ Dere skal bruke minst én **dyplæringsteknikk** som:
   
 Alle teknikkene over, går under feltet *dyplæring*. Dyplæring **skal** inkluderes i prosjektet. 
 
-I tillegg kan dere sammenligne disse med enklere modeller:  
+I tillegg, kan dere sammenligne dyplæring med mindre komplekse modeller som:  
 - Lineær regresjon  
 - Logistisk regresjon  
 - Beslutningstrær (Decision Trees, Random Forests, Boosting)
-- Dere har lov til å introdusere andre teknikker dere finner på egen hånd, **om dere vil**.
+- Dere har lov til å introdusere andre maskinlæringsteknikker dere finner på egen hånd, **om dere vil**.
 
 **Husk:** Mer komplekse modeller er ikke alltid best! Dere skal evaluere modellene basert på deres ytelse og relevans for problemstillingen.  
 
@@ -34,7 +34,7 @@ Det er ganske åpne rammer for oppgaven, men oppgaven har følgende krav:
    - Beskriv datasettet, dets kilde og hva dere ønsker å analysere.
     
 2. **Dataforståelse og preprosessering**  
-   - Utforsk datasettet (statistikk, visualiseringer).  
+   - Utforsk datasettet (statistikk, visualiseringer, etc.).  
    - Gjør nødvendige transformasjoner (håndtere manglende verdier, normalisering, etc.).  
 
 3. **Implementasjon av modeller**  
@@ -64,7 +64,7 @@ Det er ganske åpne rammer for oppgaven, men oppgaven har følgende krav:
    - Husk å oppgi en **kildeliste** for datasett og litteratur, bruk APA 7 referansestil. 
 
 ### 🎙️ Presentasjon av prosjektbeskrivelse
-Dere skal presentere prosjektet før det starter ordentlig. Dette er for å demonstrere hva dere har tenkt til, fremdriftsplan og hvilke data dere velger å se på. Dette skjer fredag 28. februar 2025, mellom 08.15-14.00 (Skulle noen ønske *tidligere*, så ta det opp med fagansvarlig i forelesning/mail).
+Dere skal presentere prosjektet før det starter ordentlig. Dette er for å demonstrere hva dere har tenkt til å gjennomføre, fremdriftsplan og hvilke data dere velger å se på. Dette skjer fredag 28. februar 2025, mellom 08.15-14.00 (Skulle noen ønske *tidligere*, så ta det opp med fagansvarlig i forelesning/mail).
 
 - Presentasjonen skal være i 5-10 minutter, etterfulgt av 5 minutter med spørsmål/diskusjon.
 - Dere skal vise frem valgte data, problemstilling og initielle tanker for prosjektet.
@@ -76,7 +76,8 @@ Denne semesteroppgaven teller 50% av karakteren. Dere vil få karakter A-F, og d
 * Hvordan problemstillingen er besvart.
 * Struktur og tydelig kommunikasjon
 * Å vise breddeforståelse for fagfeltet maskinlæring, som gjerne trekker inn samfunnsøkonomi, teller positivt.
-* Det er lov å bruke AI som et hjelpemiddel, for å få hjelp med koding, forståelse etc. - men ting **skal** være formidlet med egne ord. For det første er det juks, og for det andre, hvis man blir tatt, kan det føre til utestengelse. 
+* Det er lov å bruke AI som et hjelpemiddel, for å få hjelp med koding, forståelse etc. - men ting **skal** være formidlet med egne ord. For det første er det juks, og for det andre, hvis man blir tatt, kan det føre til utestengelse.
+* Dere har god tid på prosjektet, og skal leveres 7. mai kl. 14:00 på WiseFlow (lenke kommer). 
 
 Lykke til! 🚀
 
