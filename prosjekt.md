@@ -60,7 +60,8 @@ Det er ganske åpne rammer for oppgaven, men oppgaven har følgende krav:
 
 7. **Format og innlevering**  
    - Prosjektet **skal** leveres som en **Jupyter Notebook (`.ipynb`)**.  
-   - Det skal kunne kjøres i **Google Colab** uten eksterne avhengigheter.  
+   - Det skal kunne kjøres i **Google Colab** uten eksterne avhengigheter.
+   - Legg ved datasettet!
    - Husk å oppgi en **kildeliste** for datasett og litteratur, bruk APA 7 referansestil. 
 
 ### 🎙️ Presentasjon av prosjektbeskrivelse
