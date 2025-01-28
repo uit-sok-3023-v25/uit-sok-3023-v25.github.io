@@ -18,7 +18,7 @@ Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer.
 |27.01.2025  09:15-12:00    |Tromsø  |Introduksjon til ML #3 - del 1 og 2 |Forelesning|
 |29.01.2025  12:15-14:00    |Tromsø  |Whisper-modellen |Forelesning|
 |03.02.2025  10:15-12:00    |Tromsø  |Bildeklassifisering, CNN's - del 1  |Forelesning|
-|04.02.2025  12:15-14:00    |Tromsø  |CNN's/prosjekt |Seminar|
+|04.02.2025  12:15-14:00    |Tromsø  |Whisper/CNN's/prosjekt |Seminar|
 |05.02.2025  10:15-12:00    |Tromsø  |Bildeklassifisering, CNN's - del 2 |Forelesning|
 |10.02.2025  12:15-14:00    |Tromsø  |Long Short Term Memory modeller|Forelesning |
 |12.02.2025  10:15-12:00    |Tromsø  |Long Short Term Memory modeller|Forelesning |
