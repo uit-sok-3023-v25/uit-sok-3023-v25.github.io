@@ -15,14 +15,14 @@ Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer.
 |16.01.2025  10:15-12:00    |Tromsø  |Introduksjon til ML #2 - del 1 |Forelesning|
 |20.01.2025  12:15-14:00    |Tromsø  |Introduksjon til ML #2 - del 2 |Forelesning|
 |22.01.2025  12:15-14:00    |Tromsø  |Intro til ML, spørsmål, oppgaver |Seminar|
-|27.01.2025  09:15-12:00    |Tromsø  |Introduksjon til ML #3 - del 1 |Forelesning|
-|29.01.2025  12:15-14:00    |Tromsø  |Introduksjon til ML #3 - del 2 |Forelesning|
-|03.02.2025  10:15-12:00    |Tromsø  |Whisper-modellen |Forelesning|
-|04.02.2025  12:15-14:00    |Tromsø  |Whisper-modellen |Seminar (Utgår per 06.01.25)|
-|05.02.2025  10:15-12:00    |Tromsø  |Bildeklassifisering, CNN's - del 1 |Forelesning|
-|10.02.2025  12:15-14:00    |Tromsø  |Bildeklassifisering, CNN's - del 2|Forelesning |
+|27.01.2025  09:15-12:00    |Tromsø  |Introduksjon til ML #3 - del 1 og 2 |Forelesning|
+|29.01.2025  12:15-14:00    |Tromsø  |Whisper-modellen |Forelesning|
+|03.02.2025  10:15-12:00    |Tromsø  |Bildeklassifisering, CNN's - del 1  |Forelesning|
+|04.02.2025  12:15-14:00    |Tromsø  |CNN's/prosjekt |Seminar|
+|05.02.2025  10:15-12:00    |Tromsø  |Bildeklassifisering, CNN's - del 2 |Forelesning|
+|10.02.2025  12:15-14:00    |Tromsø  |Long Short Term Memory modeller|Forelesning |
 |12.02.2025  10:15-12:00    |Tromsø  |Long Short Term Memory modeller|Forelesning |
-|17.02.2025  12:15-16:00    |Tromsø  |Long Short Term Memory modeller |Forelesning |
+|17.02.2025  12:15-16:00    |Tromsø  |Spørsmål, repetisjon, prosjekt, muntlig |Forelesning |
 |20.02.2025  08:15-10:00    |Tromsø  |Spørsmål, oppgaver, prosjektforberedelser |Seminar |
 |28.02.2025  08:15-14:00    |Tromsø  |Presentasjon av prosjektforberedelser |----- |
 |11.03.2025  12:15-14:00    |Tromsø  |Spørsmål med prosjekt |Seminar|
