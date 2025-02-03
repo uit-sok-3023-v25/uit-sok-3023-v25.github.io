@@ -68,7 +68,8 @@ Det er ganske åpne rammer for oppgaven, men oppgaven har følgende krav:
 Dere skal presentere prosjektet før det starter ordentlig. Dette er for å demonstrere hva dere har tenkt til å gjennomføre, fremdriftsplan og hvilke data dere velger å se på. Dette skjer fredag 28. februar 2025, mellom 08.15-14.00 (Skulle noen ønske *tidligere*, så ta det opp med fagansvarlig i forelesning/mail).
 
 - Presentasjonen skal være i 5-10 minutter, etterfulgt av 5 minutter med spørsmål/diskusjon.
-- Dere skal vise frem valgte data, problemstilling og initielle tanker for prosjektet.
+- Dere skal vise frem valgte data, problemstilling og initielle tanker for prosjektet. Dette kan presenteres ved hjelp av Notebooks, PowerPoint eller en kombinasjon av PowerPoint/Notebooks.
+- Målet med presentasjonen er at dere har satt dere et passende mål, problemstilling, datasett og eventuelle spørsmål.
 - Vurderes som Godkjent/Ikke-godkjent.
 
 ### 📚 Vurdering av oppgaven
