@@ -29,7 +29,7 @@ Det viktigste med dataene dere velger å bruke til semesteroppgaven er at det er
 | Titlon (UiT)                               | Data fra Oslo Børs                         | [Titlon UiT](https://titlon.uit.no/) |
 | World Bank – World Development Indicators | Globale økonomiske indikatorer (GDP, inflasjon etc.)| [World Bank](https://databank.worldbank.org/source/world-development-indicators) |
 |World Bank - Andre type data|Statistikk innen utdannelse, kjønn, helse, populasjon|[World Bank](https://databank.worldbank.org/)|
-|ML Repo|Massevis av ulike ML datasett|[https://archive.ics.uci.edu](UC Irvine Machine Learning Repository)|
+|ML Repo|Massevis av ulike ML datasett|[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu)|
 
 
 
