@@ -73,7 +73,6 @@ Dere skal presentere prosjektet før det starter ordentlig. Dette er for å demo
 - Vurderes som Godkjent/Ikke-godkjent.
 
 #### Tidspunkt for presentasjoner
-#### Tidspunkt for presentasjoner  
 
 | Dato   | Tidspunkt   | Hvem                                      | Hvor  |
 |--------|------------|-------------------------------------------|------|
