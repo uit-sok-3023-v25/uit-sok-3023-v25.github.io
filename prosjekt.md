@@ -74,8 +74,8 @@ Dere skal presentere prosjektet før det starter ordentlig. Dette er for å demo
 
 #### Tidspunkt for presentasjoner
 
-| Dato   | Tidspunkt   | Hvem                                      | Hvor  |
-|--------|------------|-------------------------------------------|------|
+| Dato   | Tidspunkt   | Hvem       | Hvor  |
+|-------------|--------------|-----------------|-----------------|
 | 28. feb | 08.15-08.40 | Marius Bjerga og Peder Rønning            | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
 | 28. feb | 08.40-09.05 | Peder Hognestad og Erlend Olsen           | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
 | 28. feb | 09.05-09.30 | Ida Bergland og Markus Mollatt            | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
