@@ -83,6 +83,7 @@ Dere skal presentere prosjektet før det starter ordentlig. Dette er for å demo
 | 10.15-10.45 | Kenneth Benonisen og Tore Birkelund | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d)|
 | 10.45-11.15 | Torkil Moen | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d)|
 | 11.15-11.45 | Maryam javed og Erlend Øverli (alt gjennomført, så trenger ikke) | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d)|
+
 Legg merke til at disse er digitale. Ønsker dere fysisk, ta kontakt så kan vi ta det på 24., 25. eller 26. februar!
 
 ### 📚 Vurdering av oppgaven
