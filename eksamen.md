@@ -31,12 +31,12 @@ Informasjon om hvordan muntlig eksamen vil foregå finner dere [her](https://git
 
 | Navn      | Tidspunkt 22. mai | Navn            | Tidspunkt 23. mai | 
 |-----------|-------------------|-----------------|-----------|
-|Fyll inn|09:00 - 09:30|Fyll inn|09:00 - 09:30|
-|Fyll inn|09:35 - 09:50|Fyll inn|09:35 - 09:50|
-|Fyll inn|09:55 - 10:25|Fyll inn|09:55 - 10:25|
-|Fyll inn|10:30 - 11:00|Fyll inn|10:30 - 11:00|
-|Fyll inn|11:05 - 11:35|Fyll inn|11:05 - 11:35|
-|Fyll inn|12:30 - 13:00|Fyll inn|12:30 - 13:00|
-|Fyll inn|13:05 - 13:35|Fyll inn|13:05 - 13:35|
+|Peder J. Rønning|09:00 - 09:30|Torkil Moen|09:00 - 09:30|
+|Kristina B. Karlsen|09:35 - 09:50|Marius Bjerga|09:35 - 09:50|
+|Kenneth Benonisen|09:55 - 10:25|Tore Birkelund|09:55 - 10:25|
+|Peder Hognestad|10:30 - 11:00|Erlend K. Olsen|10:30 - 11:00|
+|Maryam Javed|11:05 - 11:35|Amund S. Bech|11:05 - 11:35|
+|Erlend S. Øverli|12:30 - 13:00|Markus Mollatt|12:30 - 13:00|
+|Jacob Eriksen|13:05 - 13:35|Ida Marie Bergland|13:05 - 13:35|
 
 Lykke til!
