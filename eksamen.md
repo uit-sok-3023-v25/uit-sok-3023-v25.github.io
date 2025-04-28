@@ -27,7 +27,7 @@ Under er det listet opp **når** dere skal ha deres muntlige eksamen. Det er for
 
 Informasjon om hvordan muntlig eksamen vil foregå finner dere [her](https://github.com/uit-sok-3023-v25/uit-sok-3023-v25.github.io/blob/main/Muntlig_eksamen_SOK_3023.pdf).
 
-**Obs**: Husk å ta med gyldig legitimasjon!
+**Obs**: Husk å ta med gyldig legitimasjon! Møt opp i god tid før din eksaminasjon, minst 10 minutter før.
 
 | Navn      | Tidspunkt 22. mai | Navn            | Tidspunkt 23. mai | 
 |-----------|-------------------|-----------------|-----------|
