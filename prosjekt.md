@@ -62,7 +62,7 @@ Det er ganske åpne rammer for oppgaven, men oppgaven har følgende krav:
    - Prosjektet **skal** leveres som en **Jupyter Notebook (`.ipynb`)**.  
    - Det skal kunne kjøres i **Google Colab** uten eksterne avhengigheter.
    - Legg ved datasettet!
-   - Husk å oppgi en **kildeliste** for datasett og litteratur, bruk APA 7 referansestil. 
+   - Husk å oppgi en **kildeliste** for datasett og litteratur, bruk APA 7 referansestil.
 
 ### 🎙️ Presentasjon av prosjektbeskrivelse
 Dere skal presentere prosjektet før det starter ordentlig. Dette er for å demonstrere hva dere har tenkt til å gjennomføre, fremdriftsplan og hvilke data dere velger å se på. Dette skjer fredag 28. februar 2025, mellom 08.15-14.00 (Skulle noen ønske *tidligere*, så ta det opp med fagansvarlig i forelesning/mail).
@@ -98,7 +98,7 @@ Denne semesteroppgaven teller 50% av karakteren. Dere vil få karakter A-F, og d
 * Struktur og tydelig kommunikasjon
 * Å vise breddeforståelse for fagfeltet maskinlæring, som gjerne trekker inn samfunnsøkonomi, teller positivt.
 * Det er lov å bruke AI som et hjelpemiddel, for å få hjelp med koding, forståelse etc. - men ting **skal** være formidlet med egne ord. For det første er det juks, og for det andre, hvis man blir tatt, kan det føre til utestengelse.
-* Dere har god tid på prosjektet, og skal leveres 7. mai kl. 14:00 på WiseFlow (lenke kommer).
+* Dere har god tid på prosjektet, og skal leveres 7. mai kl. 14:00 på [Wiseflow](https://europe.wiseflow.net/participant/). Her kan dere laste opp totalt **5 filer**, hvor dere **skal** laste opp en `.ipynb` fil og datasettet dere bruker. I tillegg, *kan* dere laste opp oppgaven som pdf, legge ved eventuelle vedlegg, og/eller andre relevante filer.
 
 **Husk:** Det er ikke om accuracy til modellen er 100% eller ikke, som bestemmer om dere har levert en god oppgave. Det er ikke alltid mulig å få det til på test data, da vi ikke alltid har perfekt data. En god oppgave tar hensyr til kravene, viser forståelse, refleksjon og at dere tar i bruk maskinlæring på en fornuftig måte.
 
