@@ -9,7 +9,7 @@
 ## Karakter
 - I dette kurset er det to arbeid som er karaktergivende.
 - Det første er en innlevering av prosjekt. Dette skal være et selvstendig stykke arbeid hvor dere bruker maskinlæring til å løse praktiske problemstillinger. Dere skal skrive en rapport i Google Colab, og mer informasjon om denne innleveringen finner dere [her](https://uit-sok-3023-v25.github.io/prosjekt.html).
-- Til slutt, skal vi ha en muntlig eksamen som varer opptil 30 minutter - den er individuell.  Mer informasjon om muntlig eksamen finner dere på GitHub [her](https://github.com/uit-sok-3023-v25/uit-sok-3023-v25.github.io/tree/main/oral_exam).
+- Til slutt, skal vi ha en muntlig eksamen som varer opptil 30 minutter - den er individuell.  Mer informasjon om muntlig eksamen finner dere på GitHub [her](https://github.com/uit-sok-3023-v25/uit-sok-3023-v25.github.io/blob/main/Muntlig_eksamen_SOK_3023.pdf).
 - Innleveringen av maskinlæringsprosjektet og muntlig eksamen teller like mye (50% hver), og danner grunnlag for karakter i kurset (A-E, F er stryk).
 - Skriftlig rapport leveres i [Wiseflow](https://europe.wiseflow.net/participant/). Her kan dere laste opp totalt **5 filer**, hvor dere **skal** laste opp en `.ipynb` fil og datasettet dere bruker (f.eks. `.xlsx` eller `.csv` fil). I tillegg, *kan* dere laste opp oppgaven som pdf, legge ved eventuelle vedlegg, og/eller andre relevante filer.
 
